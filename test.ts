@@ -1,5 +1,5 @@
 // test.ts
 function calculateTotal(price: any, tax: any) {
-    // intentional bad practice / bug
+    // intentional very bad practice / bug
     return price * tax;
-}//lalalahehehe
+}
